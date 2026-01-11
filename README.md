@@ -26,4 +26,4 @@ This project analyzes greenhouse gas (GHG) emissions across supply chains in mul
 This analysis reinforces that sustainability is not limited to production processes alone but spans the entire supply chain. Data-driven insights are essential for balancing profitability with environmental responsibility.
 
 ## Dashboard Preview
-![Dashboard Preview](IMG_5765.jpeg)
+![Dashboard Preview](IMG_5765.png)
